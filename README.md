@@ -1,2 +1,2 @@
 # KITSurvey
-the data-set of a survey study
+The data-set of a survey study
